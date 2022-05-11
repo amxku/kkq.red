@@ -30,7 +30,7 @@
 
 ## 其他
 
-+ [FAQ](https://kkqa.net/docx/faq)
++ [列表卡泉](https://)
 + [常用网站](https://kkqa.net/docx/faq#toc-13)
 + [全部链接](https://kkqa.net/docx/2205-links)
 + [卡泉银元](https://kkqa.net/)
